@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple todo list application. Currently lets you add todo tasks. Eventually, could add localStorage to keep track of the todos without losing them after reload.
 
 ## Available Scripts
 
